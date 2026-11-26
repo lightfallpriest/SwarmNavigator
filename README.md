@@ -1,7 +1,7 @@
 # SwarmNavigator
 
 **Decentralized Multi-Agent Coverage & Obstacle Avoidance in 2D Gridworlds (Reinforcement Learning Framework)**  
-*Author: Ayushman Mishra (`@infinitepriest`)* 
+*Author: Ayushman Mishra (`@lightfallpriest`)* 
 
 ---
 
@@ -119,8 +119,8 @@ SwarmNavigator/
 
 **Ayushman Mishra**  
 Robotics & Ctrl Systems Engineer  
-[Linkedin: Ayushman Mishra](https://linkedin.com/in/infinitepriest)  
-[GitHub: Ayushman M. (infinitepriest)](https://github.com/infinitepriest)  
+[Linkedin: Ayushman Mishra](https://linkedin.com/in/lightfallpriest)  
+[GitHub: Ayushman M. (lightfallpriest)](https://github.com/lightfallpriest)  
 Email ID: [aymisxx@proton.me]
 
 ---
